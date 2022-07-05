@@ -6,6 +6,11 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		CC357E1728745B0F007AF2AD /* 01. Opposite_Number_8kyu.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01. Opposite_Number_8kyu.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		CC357E1828745B50007AF2AD /* 02. Multiply_8kyu.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02. Multiply_8kyu.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		CC357E0B2874565F007AF2AD = {
 			isa = PBXGroup;
@@ -21,6 +26,8 @@
 		CC357E1228745866007AF2AD /* 8 kyu */ = {
 			isa = PBXGroup;
 			children = (
+				CC357E1728745B0F007AF2AD /* 01. Opposite_Number_8kyu.playground */,
+				CC357E1828745B50007AF2AD /* 02. Multiply_8kyu.playground */,
 			);
 			path = "8 kyu";
 			sourceTree = "<group>";
