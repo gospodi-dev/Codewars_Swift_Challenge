@@ -10,7 +10,47 @@
 		CC357E0B2874565F007AF2AD = {
 			isa = PBXGroup;
 			children = (
+				CC357E1228745866007AF2AD /* 8 kyu */,
+				CC357E132874587D007AF2AD /* 7 kyu */,
+				CC357E1428745887007AF2AD /* 6 kyu */,
+				CC357E1528745898007AF2AD /* 5 kyu */,
+				CC357E16287458A4007AF2AD /* 4 kyu */,
 			);
+			sourceTree = "<group>";
+		};
+		CC357E1228745866007AF2AD /* 8 kyu */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "8 kyu";
+			sourceTree = "<group>";
+		};
+		CC357E132874587D007AF2AD /* 7 kyu */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "7 kyu";
+			sourceTree = "<group>";
+		};
+		CC357E1428745887007AF2AD /* 6 kyu */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "6 kyu";
+			sourceTree = "<group>";
+		};
+		CC357E1528745898007AF2AD /* 5 kyu */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "5 kyu";
+			sourceTree = "<group>";
+		};
+		CC357E16287458A4007AF2AD /* 4 kyu */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "4 kyu";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
