@@ -13,6 +13,7 @@
 
 | Kata | Solution | Repository |
 |:-----|:--------:|:----------:|
+| [**Opposite number**](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/swift) | ✅ [**SOLVED**](https://www.codewars.com/kata/56dec885c54a926dcd001095/solutions/swift) | [**OPEN**](https://github.com/gospodi-dev/Codewars_Swift_Challenge/tree/main/8%20kyu/01.%20Opposite_Number_8kyu.playground) |
 | [**Multiply**](https://www.codewars.com/kata/50654ddff44f800200000004/train/swift) | ✅ [**SOLVED**](https://www.codewars.com/kata/50654ddff44f800200000004/solutions) | [**OPEN**](https://github.com/gospodi-dev/Codewars_Swift_Challenge/tree/main/8%20kyu/02.%20Multiply_8kyu.playground) |
 | [**Gravity Flip**](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | 💡 In process | 🛠 Soon |
 
