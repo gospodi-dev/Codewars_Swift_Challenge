@@ -9,9 +9,12 @@
 
 <details><summary><b>8 kyu</b></summary>
 
-  ```
-  I'LL FILL THIS IN COMING SOON.
-  ```
+  <br>
+
+| Kata | Solution | Repository |
+|:-----|:--------:|:----------:|
+| [**Multiply**](https://www.codewars.com/kata/50654ddff44f800200000004/train/swift) | ✅ [**SOLVED**](https://www.codewars.com/kata/50654ddff44f800200000004/solutions) | [**OPEN**](https://github.com/gospodi-dev/Codewars_Swift_Challenge/tree/main/8%20kyu/02.%20Multiply_8kyu.playground) |
+| [**Gravity Flip**](https://www.codewars.com/kata/5f70c883e10f9e0001c89673) | 💡 In process | 🛠 Soon |
 
 </details>
 
